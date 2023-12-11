@@ -1,2 +1,4 @@
 # Project3
-Practice of github
+Practice of github.
+# Work in progress
+Will complete.
